@@ -2,7 +2,7 @@
 
 Access the site from this link: (https://rentiz-real-state.netlify.app/)
 
-BookTown is a fully functional website for buying and renting properties. It was created using HTML, CSS, and vanila JavaScript. Users can browse through a variety of real state properties, and see their features. The website also includes a search function.
+Rentiz is a design website for buying and renting properties. It was created using HTML, CSS, and vanila JavaScript. Users can browse through a variety of real state properties, and see their features. The website also includes a search function design.
 
 ## The technologies used in the project:
 

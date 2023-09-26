@@ -1,6 +1,6 @@
-# RENTIZ
+# RENTIZ 🏠
 
-Access the site from this link: (https://rentiz-real-state.netlify.app/)
+To access the site click [here](https://rentiz-real-state.netlify.app/)
 
 Rentiz is a design website for buying and renting properties. It was created using HTML, CSS, and vanila JavaScript. Users can browse through a variety of real state properties, and see their features. The website also includes a search function design.
 
@@ -21,3 +21,4 @@ Rentiz is a design website for buying and renting properties. It was created usi
 - Social Media Integration: Easily connect with Rentiz on popular social media platforms.
 - Sticky Header: The header sticks to the top as you scroll down, providing convenient access to navigation options.
 
+![RoomRoommateGIF](https://github.com/eyadsaher/Rentiz/assets/116634909/fb4e7386-1559-4fb4-9c22-ccb4bdf093bd)
